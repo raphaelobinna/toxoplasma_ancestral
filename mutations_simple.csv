@@ -1,0 +1,8 @@
+Branch,Site,Change,Parent_p_C,Parent_p_G,Child_p_C,Child_p_G
+Node2->Node3,466,C466T,1.0,0.0,0.00237,0.0
+Node2->Node3,1512,G1512C,0.0,1.0,0.99841,0.00158
+Node3->Node4,1347,G1347T,1e-05,0.99525,0.0,0.0
+Node5->Node6,1140,A1140G,0.0,0.0,0.0,1.0
+Node3->Node9,612,T612C,0.00089,0.0,1.0,0.0
+Node3->Node9,816,G816A,0.0,0.99924,0.0,0.0
+Node3->Node9,1773,G1773C,0.00068,0.99932,1.0,0.0
